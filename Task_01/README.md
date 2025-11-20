@@ -252,7 +252,7 @@ To practice how developers use Git to log their AI learning progress, you can
  d) Automate testing
  
 ### Answer
-        ✅ b) Empower developers through AI tools
+✅ b) Empower developers through AI tools
  
  2: What defines an AI-driven developer?
  
