@@ -269,7 +269,7 @@ This uploads your learning journey to GitHub, making it part of your public port
  d) Automate testing
  
 ### Answer
- ✅ b) Empower developers through AI tools
+     ✅ b) Empower developers through AI tools
  
  2: What defines an AI-driven developer?
  
