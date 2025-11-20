@@ -139,6 +139,11 @@ Install the Google Gemini CLI for hands-on AI tasks:
  gemini --version
  ```
 
+🚀 Successfully Installation
+
+ ![Installation](Installation.png)
+
+ ![Gemini](Gemini.png)
 
 # ✍ Reflection Activity (40 min)
  Write your reflection in your own words:
@@ -204,50 +209,28 @@ To practice how developers use Git to log their AI learning progress, you can
 #### ✔ Step-by-Step Git Commands
  1. Initialize a new Git repository
 
- ```
- bash
- 
- git init
- ```
+ ![Git Init](Git_Init.png)
  Creates a new Git repo where your learning progress will be tracked.
 
  2. Add your files to the staging area
 
- ```
- bash
- 
- git add.
- ```
+ ![Git Add](Git_Add.png)
  This tells Git which files you want to include in the next commit.
 
  3. Create your first commit
 
- ```
- bash
- 
- git commit -m "feat: Added Day 1 reflection on AI-Driven Development"
- ```
+ ![Git Commit](Git_Commit.png)
  A clear, professional commit message showing what you accomplished.
 
  4. View your commit history
 
- ```
- bash
-
- git log --oneline
- ```
+ ![Commit History](Commit_History.png)
  Shows a simple list of your completed progress checkpoints.
 
  5. Connect to GitHub
 
- ```
- bash
- 
- git remote add origin http://github.com/username/repo-name.git
- git branch -M main
- git push -u origin main
- ```
-This uploads your learning journey to GitHub, making it part of your public portfolio.
+ ![Connect To GitHub](Connect_GitHub.png)
+ This uploads your learning journey to GitHub, making it part of your public portfolio.
 
 ## 🌟 Why This Matters
  Using Git this way helps you build the same habits professional developers use
@@ -269,7 +252,7 @@ This uploads your learning journey to GitHub, making it part of your public port
  d) Automate testing
  
 ### Answer
- ✅ b) Empower developers through AI tools
+        ✅ b) Empower developers through AI tools
  
  2: What defines an AI-driven developer?
  
@@ -282,7 +265,7 @@ This uploads your learning journey to GitHub, making it part of your public port
  d) Works offline
  
 ### Answer
-    ✅ b) Creates context-aware prompts
+        ✅ b) Creates context-aware prompts
  
  3: What does “AIDD” stand for?
  

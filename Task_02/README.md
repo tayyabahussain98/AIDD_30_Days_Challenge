@@ -115,20 +115,10 @@ panaversity.org), cover the material needed for this task.
 # 📱 Screenshots
  
 ### Prompt:
-
-```
-bash
-
-> Write a 1-paragraph specification for an email validation function. The specification must include: 1) Email must contain '@', 2) Must have a valid domain like .com or .org, 3) Return clear and descriptive error messages for invalid inputs.
-```
+![Prompt](Prompt.png)
  
 ### Output:
-
-```
-bash
-
-The email validation function will verify if a given string is a valid email address. It must ensure the email contains a single '@' symbol separating the local part from the domain. Furthermore, the domain must be well-formed, including a top-level domain (TLD) such as '.com', '.org', '.net', or other recognized TLDs, preceded by at least one subdomain part. For any invalid input, the function will return a clear and descriptive error message indicating the specific reason for failure, such as "Email must contain an '@' symbol", "Invalid domain format", or "Missing top-level domain".
-```
+![Output](Output.png)
 
 # 📁 Part C — Multiple Choice Questions
 
