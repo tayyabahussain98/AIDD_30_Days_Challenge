@@ -3,10 +3,10 @@ name = "study-notes-agent"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.13"
 dependencies = [
-    "streamlit>=1.33.0",
-    "pypdf>=4.0.0",
-    "openai-agents>=0.2.0",
+    "openai-agents>=0.6.1",
+    "pypdf>=6.3.0",
     "python-dotenv>=1.0.0",
+    "streamlit>=1.50.0",
 ]
