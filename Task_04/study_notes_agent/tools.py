@@ -1,5 +1,5 @@
-from pypdf import PdfReader  # pyright: ignore[reportMissingImports]
-from agents import function_tool  # pyright: ignore[reportMissingImports]
+from pypdf import PdfReader
+from agents import function_tool
 
 @function_tool
 def extract_text_from_pdf(pdf_path: str) -> str:
