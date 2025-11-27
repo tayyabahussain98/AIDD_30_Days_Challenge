@@ -22,7 +22,7 @@
 
  Copy the token and save it safely.
 
- ![Create Accoun](Create_Account.png)
+ ![Create Account](Create_Account.png)
  
  #### 🗒️ Token Name
 
